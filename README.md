@@ -24,7 +24,12 @@ CSS: Estilização e design.
 
 Bootstrap: Framework CSS para responsividade e componentes visuais.
 
+Desktop
 ![Desktop](https://github.com/user-attachments/assets/84acf7cb-e450-4e3f-8b69-a00022efcd83)
+
+Mobile-Phone
 ![Mobile-Phone](https://github.com/user-attachments/assets/4f6a7e4f-f4a2-4a78-91ce-20f680f7326a)
+
+Mobile-Tablet
 ![Mobile-Tablet](https://github.com/user-attachments/assets/d1667017-2e58-4f21-8f18-350bf1487c4e)
 
