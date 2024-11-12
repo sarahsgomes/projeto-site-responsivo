@@ -11,14 +11,17 @@ Funcionalidades
 Banner de Apresentação: Um banner com o logotipo da pizzaria.
 Sessão de Pizzas Mais Vendidas: Uma galeria das pizzas mais populares, com fotos, descrição, preço e botão para compra.
 
-Sobre a Pizzaria: Uma descrição sobre o ambiente e a filosofia da pizzaria, acompanhada de uma imagem representativa.
+Sobre a Pizzaria: 
 
-Responsividade: Layout responsivo, que adapta a exibição para diferentes dispositivos e tamanhos de tela.
+Uma descrição sobre o ambiente e a filosofia da pizzaria, acompanhada de uma imagem representativa.
+
+Responsividade: 
+
+Layout responsivo, que adapta a exibição para diferentes dispositivos e tamanhos de tela.
 
 Tecnologias Utilizadas
 HTML: Estrutura de marcação do site.
 CSS: Estilização e design.
 Bootstrap: Framework CSS para responsividade e componentes visuais.
-Estrutura de Arquivos
 
 (https://github.com/user-attachments/assets/78b56d10-9a9e-4a07-800a-e546d0c22da8)
